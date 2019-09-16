@@ -1,0 +1,60 @@
+.wrapper-header {
+  background: url(../assets/img/img_bg_2.jpg);
+  background-size: 100%;
+  padding-top: 58px;  
+  margin: 0 auto;
+}
+
+ul, li {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.logo-header {
+  width: 23px;
+  height: 23px;
+}
+
+.wrapper-logo {
+  display: flex;
+  justify-content: start;
+}
+
+.logo-name {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+  font-weight: 200;
+  color: white;
+  margin-top: -13px;
+}
+
+.menu a {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+.header-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 52px;
+  font-weight: 300;
+  color: white;
+  margin-top: 215px;
+  margin-bottom: 230px;
+}
+
+.main {  
+  max-width: 100%;  
+  background: #eeeeee;
+  margin: 0 auto; 
+  padding-top: 59px;
+}
+
+.main-title { 
+color: #323232;
+font-family: 'Montserrat' sans-serif;
+font-size: 16px;
+font-weight: 500;
+text-transform: uppercase;
+
+}
